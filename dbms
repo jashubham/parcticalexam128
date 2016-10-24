@@ -1,0 +1,2 @@
+create table parc
+(name varchar(20),depit smallint primary key,bal decimal(10,2);
